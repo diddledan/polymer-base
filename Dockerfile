@@ -1,3 +1,3 @@
-FROM node:boron
+FROM node:carbon
 
 RUN npm install -g polymer-cli
